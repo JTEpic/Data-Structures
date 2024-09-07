@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PairInterface
+comment0.text=\n\ Write\ a\ description\ of\ interface\ PairInterface\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x
+comment1.target=void\ setFirst(java.lang.Object)
+comment2.params=x
+comment2.target=void\ setSecond(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ getFirst()
+comment4.params=
+comment4.target=java.lang.Object\ getSecond()
+numComments=5

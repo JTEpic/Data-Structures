@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Write\ a\ description\ of\ class\ Main\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=text\ numWords
+comment2.target=java.util.ArrayList\ search(java.lang.String,\ int)
+comment3.params=one\ two
+comment3.target=int\ counter(java.util.ArrayList,\ java.util.ArrayList)
+numComments=4

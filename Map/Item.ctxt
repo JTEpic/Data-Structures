@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\n\ Write\ a\ description\ of\ class\ jh\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=k\ v
+comment1.target=Item(java.lang.Object,\ java.lang.Object)
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment3.params=
+comment3.target=java.lang.Object\ getValue()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

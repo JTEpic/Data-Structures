@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Count
+comment0.text=\n\ Write\ a\ description\ of\ class\ Count\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=one\ two\ num
+comment1.target=Count(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getOne()
+comment3.params=
+comment3.target=java.lang.String\ getTwo()
+comment4.params=
+comment4.target=int\ getNum()
+comment5.params=other
+comment5.target=int\ compareTo(Count)
+numComments=6
