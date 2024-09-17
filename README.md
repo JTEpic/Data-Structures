@@ -1,6 +1,10 @@
-Data Structures
+# Data Structures
 
-2022-2023
+Made by JTEpic
+
+Class Project started 2022-2023
+
+# Summary
 
 This repo was made to save my progress
 
